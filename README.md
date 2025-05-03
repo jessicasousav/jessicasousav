@@ -4,8 +4,8 @@ Me chamo Jéssica, tenho 27 anos e sou natural de Brasília - DF. Atualmente est
 
 <div align="center">
     
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=jessicasousav&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&rank_icon=github" />  
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasousav&layout=compact&theme=radical" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=jessicasousav&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&rank_icon=github&locale=pt-br" />  
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasousav&layout=compact&theme=radical&locale=pt-br" />
   
 </div><br>
 
