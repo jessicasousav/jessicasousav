@@ -1,8 +1,12 @@
 ## Oi!! Eu sou a Jéssica Vieira 👋
 
+Me chamo Jéssica, tenho 27 anos e sou natural de Brasília - DF. Atualmente estou estudando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e também sou graduada em Arquitetura e Urbanismo pela Universidade Católica de Brasília. Sempre fui apaixonada por tecnologia e por conta disso decidi transformar minha vida e mudar para a área do desenvolvimento. Então apesar de estar recomeçando, já carrego uma grande bagagem de conhecimento e criatividade desenvolvida ao decorrer da minha primeira formação, a qual coloco em prática nos meus atuais e futuros projetos.
+
 <div align="center">
+    
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=jessicasousav&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&rank_icon=github" />  
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasousav&layout=compact&theme=radical" />
   
-  ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicasousav&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasousav&layout=compact&theme=radical)
 </div><br>
 
 <div style="display: inline_block" align='center'>
