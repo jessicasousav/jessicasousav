@@ -27,8 +27,8 @@
 - 🔭 Sou estudante de ADS.
 - 🌱 Estou aprendendo React.js e Node.js
 - 👯 Sou apaixonada pela área do desenvolvimento.
-- 😄 Pronouns: ela / dela
 - ⚡ Idiomas: Português (Nativo), Inglês (Fluente), Espanhol (Básico).
+- 😄 ela / dela
 
 
 ##
