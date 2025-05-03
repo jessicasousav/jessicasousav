@@ -2,8 +2,7 @@
 
 <div align="center">
   
-  ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicasousav&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)  
-
+  ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicasousav&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasousav&layout=compact&theme=radical)
 </div><br>
 
 <div style="display: inline_block" align='center'>
