@@ -1,6 +1,6 @@
 ## Oi!! Eu sou a Jéssica Vieira 👋
 
-Me chamo Jéssica, tenho 27 anos e sou natural de Brasília - DF. Atualmente estou estudando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e também sou graduada em Arquitetura e Urbanismo pela Universidade Católica de Brasília. Sempre fui apaixonada por tecnologia e por conta disso decidi transformar minha vida e mudar para a área do desenvolvimento. Então apesar de estar recomeçando, já carrego uma grande bagagem de conhecimento e criatividade desenvolvida ao decorrer da minha primeira formação, a qual coloco em prática nos meus atuais e futuros projetos.
+Me chamo Jéssica, tenho 28 anos e sou natural de Brasília - DF. Atualmente estou estudando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e também sou graduada em Arquitetura e Urbanismo pela Universidade Católica de Brasília. Sempre fui apaixonada por tecnologia e por conta disso decidi transformar minha vida e mudar para a área do desenvolvimento. Então apesar de estar recomeçando, já carrego uma grande bagagem de conhecimento e criatividade desenvolvida ao decorrer da minha primeira formação, a qual coloco em prática nos meus atuais e futuros projetos.
 
 <div align="center">
     
@@ -28,7 +28,7 @@ Me chamo Jéssica, tenho 27 anos e sou natural de Brasília - DF. Atualmente est
 ##
 
 - 🔭 Sou estudante de ADS.
-- 🌱 Estou aprendendo React.js e Node.js
+- 🌱 Estou aprendendo Next.js
 - 👯 Sou apaixonada pela área do desenvolvimento.
 - ⚡ Idiomas: Português (Nativo), Inglês (Fluente), Espanhol (Básico).
 - 😄 ela / dela
