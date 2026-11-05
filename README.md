@@ -31,10 +31,10 @@ My name is Jessica, I'm 29 years old, and I'm from Brasilia, Brazil. I am curren
 
 ##
 - 🔭 System Analysis and Development student.
--🌱 Currently learning Next.js. and Cloud
--👯 Passionate about software development.
--⚡ Languages: Portuguese (Native), English (Fluent), Spanish (Basic).
--😄 she / her
+- 🌱 Currently learning Next.js. and Cloud
+- 👯 Passionate about software development.
+- ⚡ Languages: Portuguese (Native), English (Fluent), Spanish (Basic).
+- 😄 she / her
 
 
 ##
