@@ -5,13 +5,6 @@ Me chamo Jéssica, tenho 29 anos e sou natural de Brasília - DF. Atualmente est
 ## Hi!! I'm Jéssica Vieira 👋
 My name is Jessica, I'm 29 years old, and I'm from Brasilia, Brazil. I am currently studying System Analysis and Development at Cruzeiro do Sul University, and I also hold a degree in Architecture and Urban Planning from the Catholic University of Brasilia. I've always been passionate about technology, which led me to transform my life and transition into software development. Even though I'm starting fresh, I bring a strong background of knowledge and creativity built during my first degree, which I put into practice in my current and future projects.
 
-<div align="center">
-    
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=jessicasousav&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&rank_icon=github&locale=pt-br" />  
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasousav&layout=compact&theme=radical&locale=pt-br" />
-  
-</div><br>
-
 <div style="display: inline_block" align='center'>
   <img align="center" alt="Jessica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jessica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
