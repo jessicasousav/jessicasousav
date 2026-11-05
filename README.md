@@ -1,6 +1,9 @@
 ## Oi!! Eu sou a Jéssica Vieira 👋
 
-Me chamo Jéssica, tenho 28 anos e sou natural de Brasília - DF. Atualmente estou estudando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e também sou graduada em Arquitetura e Urbanismo pela Universidade Católica de Brasília. Sempre fui apaixonada por tecnologia e por conta disso decidi transformar minha vida e mudar para a área do desenvolvimento. Então apesar de estar recomeçando, já carrego uma grande bagagem de conhecimento e criatividade desenvolvida ao decorrer da minha primeira formação, a qual coloco em prática nos meus atuais e futuros projetos.
+Me chamo Jéssica, tenho 29 anos e sou natural de Brasília - DF. Atualmente estou estudando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul e também sou graduada em Arquitetura e Urbanismo pela Universidade Católica de Brasília. Sempre fui apaixonada por tecnologia e por conta disso decidi transformar minha vida e mudar para a área do desenvolvimento. Então apesar de estar recomeçando, já carrego uma grande bagagem de conhecimento e criatividade desenvolvida ao decorrer da minha primeira formação, a qual coloco em prática nos meus atuais e futuros projetos.
+
+## Hi!! I'm Jéssica Vieira 👋
+My name is Jessica, I'm 29 years old, and I'm from Brasilia, Brazil. I am currently studying System Analysis and Development at Cruzeiro do Sul University, and I also hold a degree in Architecture and Urban Planning from the Catholic University of Brasilia. I've always been passionate about technology, which led me to transform my life and transition into software development. Even though I'm starting fresh, I bring a strong background of knowledge and creativity built during my first degree, which I put into practice in my current and future projects.
 
 <div align="center">
     
@@ -28,10 +31,16 @@ Me chamo Jéssica, tenho 28 anos e sou natural de Brasília - DF. Atualmente est
 ##
 
 - 🔭 Sou estudante de ADS.
-- 🌱 Estou aprendendo Next.js
+- 🌱 Estou aprendendo Next.js e Cloud
 - 👯 Sou apaixonada pela área do desenvolvimento.
 - ⚡ Idiomas: Português (Nativo), Inglês (Fluente), Espanhol (Básico).
 - 😄 ela / dela
+
+- 🔭 System Analysis and Development student.
+-🌱 Currently learning Next.js. and Cloud
+-👯 Passionate about software development.
+-⚡ Languages: Portuguese (Native), English (Fluent), Spanish (Basic).
+-😄 she / her
 
 
 ##
