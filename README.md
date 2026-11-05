@@ -29,6 +29,7 @@ My name is Jessica, I'm 29 years old, and I'm from Brasilia, Brazil. I am curren
 - ⚡ Idiomas: Português (Nativo), Inglês (Fluente), Espanhol (Básico).
 - 😄 ela / dela
 
+##
 - 🔭 System Analysis and Development student.
 -🌱 Currently learning Next.js. and Cloud
 -👯 Passionate about software development.
